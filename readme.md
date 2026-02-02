@@ -31,3 +31,5 @@ php artisan key:generate
 touch database/database.sqlite
 php artisan migrate
 php artisan serve
+
+- postman link : https://www.postman.com/salata-aya/order-payment/collection/12108143-f609a988-dad2-4f6f-85f8-0f1fdf63162d/?action=share&creator=12108143
